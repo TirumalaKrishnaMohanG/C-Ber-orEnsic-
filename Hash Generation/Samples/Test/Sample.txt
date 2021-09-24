@@ -1,0 +1,3 @@
+Hi There,
+
+This is sample repositry to test the hash functionality.
